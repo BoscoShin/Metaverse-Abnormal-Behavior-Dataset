@@ -1,4 +1,9 @@
-🚀 Metaverse-Abnormal-Behavior-Dataset (M.A.D) is a synthetic dataset designed for detecting abnormal avatar behaviors in Metaverse environments. This dataset was generated using motion capture, diffusion-based motion synthesis, and 3D rendering techniques to model various abnormal actions in virtual environments.
+# 🚀 Metaverse Abnormal Behavior Dataset (M.A.D)
+
+**Metaverse-Abnormal-Behavior-Dataset (M.A.D)** is a synthetic dataset designed for **detecting abnormal avatar behaviors** in Metaverse environments.  
+This dataset was generated using **motion capture, diffusion-based motion synthesis, and 3D rendering techniques** to model various abnormal actions in virtual environments.
+
+---
 
 ## 📌 Dataset Overview  
 
@@ -17,16 +22,22 @@ The dataset includes **six abnormal behavior classes** and **one normal behavior
 
 Each action sequence consists of **60-frame MP4 videos** with corresponding **skeleton annotations** for pose estimation.
 
+---
 
+## 📥 How to Access the Dataset  
 
-📥 How to Access the Dataset
-Due to ethical considerations and platform policies, the Metaverse Abnormal Behavior Dataset (M.A.D) is not publicly available for direct download.
-Researchers and developers who wish to use this dataset for academic or research purposes can request access via email:
+Due to **ethical considerations** and **platform policies**, the **Metaverse Abnormal Behavior Dataset (M.A.D)** is **not publicly available** for direct download.  
+Researchers and developers who wish to use this dataset for **academic or research purposes** can **request access via email**:
 
-📩 Request the dataset by emailing: [wonseop218@cau.ac.kr]
-Please include:
+📩 **Request the dataset by emailing: [wonseop218@cau.ac.kr]**  
 
-Your name
-Affiliation (university, research lab, company, etc.)
-Purpose of use
-We will review your request and provide access to the dataset accordingly.
+### **Please include the following details in your request:**
+- **Your Name**
+- **Affiliation** (University, Research Lab, Company, etc.)
+- **Purpose of Use**
+
+Each request will be reviewed, and access will be granted accordingly.
+
+---
+
+This version **optimizes readability** and **ensures clear instructions** for dataset access while keeping a **clean structure** for GitHub. Let me know if you need any further refinements! 🚀
