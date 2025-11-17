@@ -39,5 +39,3 @@ Researchers and developers who wish to use this dataset for **academic or resear
 Each request will be reviewed, and access will be granted accordingly.
 
 ---
-
-This version **optimizes readability** and **ensures clear instructions** for dataset access while keeping a **clean structure** for GitHub. Let me know if you need any further refinements! 🚀
